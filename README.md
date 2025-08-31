@@ -1,0 +1,1 @@
+A PyTorch + Hugging Face project that trains a conversational model (like DistilGPT-2) on dialogue datasets and generates immersive, role-play style conversations between characters with customizable settings, goals, and personalities.
